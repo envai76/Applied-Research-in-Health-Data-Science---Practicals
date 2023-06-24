@@ -8,8 +8,6 @@
 
 The instructor for this course is Dr. Finlay Maguire, a respected expert in the field of health data science. You can find his GitHub repository at https://github.com/fmaguire.
 
-The instructor for this course is Dr. Finlay Maguire, a respected expert in the field of health data science. You can find his GitHub repository at <a href="https://github.com/fmaguire">here</a>.</p>
-
 <p><b>Course Description</b>  can be found on  <a href="https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&entitytype=CID&entitycode=CSCI+4148">here</a>.</p>
 
 
