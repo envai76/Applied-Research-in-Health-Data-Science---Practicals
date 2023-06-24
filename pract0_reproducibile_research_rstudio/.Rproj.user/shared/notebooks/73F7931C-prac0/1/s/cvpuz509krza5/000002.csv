@@ -1,0 +1,4 @@
+"0","```r
+dino_data %>%
+  summarize(r = cor(x, y))
+```"

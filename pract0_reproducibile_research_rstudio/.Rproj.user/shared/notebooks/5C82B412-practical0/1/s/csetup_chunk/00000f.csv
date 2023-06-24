@@ -1,0 +1,16 @@
+"0","knitr::opts_chunk$set(echo = TRUE)"
+"0","tinytex::install_tinytex()"
+"2","trying URL 'https://yihui.org/tinytex/TinyTeX-1.zip'
+"
+"2","Content type 'application/octet-stream'"
+"2"," length 128170695 bytes (122.2 MB)
+"
+"2","downloaded 122.2 MB
+
+"
+"1","3 File(s) copied
+"
+"1","1 File(s) copied
+"
+"1","Running fc-cache -v -r
+"
